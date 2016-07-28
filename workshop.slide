@@ -72,7 +72,7 @@ Skills required for a software developer:
 - C like syntax (no semicolons) (;)
 - Object Oriented (Composition over inheritance - no classes!)
 
-.image vsrecio/presentation/image/gopher1.png
+.image vsrecio/presentation/gh-pages/image/gopher1.png
 
 * Facts ...
 
@@ -85,7 +85,7 @@ Skills required for a software developer:
 - 25 keywords (less than C,C++,Python etc.)
 - Classification (Capitalized are exported - public)
 
-.image vsrecio/presentation/image/gopher2.png
+.image vsrecio/presentation/gh-pages/image/gopher2.png
 
 * Facts ...
 
@@ -98,7 +98,7 @@ Skills required for a software developer:
 - No exceptions ([[https://blog.golang.org/errors-are-values][Errors are values]])
 - Pointers (No pointer arithmetic!)
 
-.image image/gopher3.png
+.image vsrecio/presentation/gh-pages/image/gopher3.png
 
 * Hello, Comunidad de Golang Dominicana!
 
