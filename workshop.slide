@@ -2,7 +2,7 @@ Golang Dominicana: Golang Workshop
 
 Victor S. Recio
 DevOps
-https://linux.do
+https://nercore.com
 @vsrecio
 
 * About Me
@@ -34,17 +34,16 @@ Skills required for a software developer:
 - We will move on when about 50% are ready
 - Slides are online, feel free to work ahead or catch up
 
-*Credit*: [[http://www.slideshare.net/spf13/go-firstapp][Steven Francia]]
 
 * Requirements
 
 - Not need experience in some other programming language (Python, Ruby, Java, C# etc.)
 - Know how to use [[http://git-scm.com/doc][Git version control system]]
 - Comfortable with one shell (Bash, Zsh)
-- Comfortable with one text editor (Vim, IntelliJ.)
-- Install Go plugin for your text editor/IDE: VIM, IntelliJ
+- Comfortable with one text editor (Vim, IntelliJ, Atom.)
+- Install Go plugin for your text editor/IDE: VIM, IntelliJ, Atom
 - Internet connectivity should be ensured
-- Operating system with Go support (GNU/Linux or Mac OS)
+- Operating system with Go support (Linux, Mac OS. FreeBSD)
 
 * Agenda
 
@@ -66,7 +65,7 @@ Skills required for a software developer:
 - Free and Open Source (FOSS)
 - Created at Google by Robert Griesemer, Rob Pike and Ken Thompson
 - Development started in 2007 and publicly released in November 2009
-- C like syntax (no semicolons)
+- C like syntax (no semicolons) (;)
 - Object Oriented (Composition over inheritance - no classes!)
 
 .image image/gopher1.png
@@ -82,7 +81,7 @@ Skills required for a software developer:
 - 25 keywords (less than C,C++,Python etc.)
 - Classification (Capitalized are exported - public)
 
-.image image/gopher2.png
+.image /image/gopher2.png
 
 * Facts ...
 
