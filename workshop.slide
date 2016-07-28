@@ -5,6 +5,10 @@ DevOps
 https://nercore.com
 @vsrecio
 
+Alejandro Arnaud
+Developer
+gygatk@gmail.com
+
 * About Me
 
 - Linux System Administrator (DevOps)
@@ -81,7 +85,7 @@ Skills required for a software developer:
 - 25 keywords (less than C,C++,Python etc.)
 - Classification (Capitalized are exported - public)
 
-.image /image/gopher2.png
+.image image/gopher2.png
 
 * Facts ...
 
@@ -109,6 +113,17 @@ Skills required for a software developer:
 - Readability
 - Safety (Type safety, Memory safety)
 - Speed (Compile time & Run time)
+
+* How are using GO?
+
+- Google
+- Docker Inc.
+- CoreOS
+- Open Stack
+- Digital Ocean
+- AWS
+- Twitter
+- iron.io
 
 .image image/gopher4.png
 
@@ -179,7 +194,7 @@ If you are using GitHub for hosting code, you can create a directory structure u
 
 Replace the <username> with your GitHub username or organization name and <projectname> with the name of the project. For example:
 
-    src/github.com/baijum/introduction
+    src/github.com/vsrecio/demo
 
 (*Note*: When you fork a project in Github use "go get" with the upstream location)
 
@@ -187,14 +202,14 @@ Replace the <username> with your GitHub username or organization name and <proje
 
 - The "go get" command download source repositories and places them in the workspace
 
-    go get github.com/baijum/introduction
+    go get github.com/vsrecio/demo
     go get golang.org/x/tools/...
 
 - Repo URL and package path will be same normally (This helps Go tool to fetch)
 
 - To update use "-u" flag
 
-    go get -u github.com/baijum/introduction
+    go get -u github.com/vsrecio/demo
 
 - [[https://golang.org/cmd/go/]]
 
