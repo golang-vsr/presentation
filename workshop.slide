@@ -72,7 +72,7 @@ Skills required for a software developer:
 - C like syntax (no semicolons) (;)
 - Object Oriented (Composition over inheritance - no classes!)
 
-.image image/gopher1.png
+.image vsrecio/presentation/image/gopher1.png
 
 * Facts ...
 
@@ -85,7 +85,7 @@ Skills required for a software developer:
 - 25 keywords (less than C,C++,Python etc.)
 - Classification (Capitalized are exported - public)
 
-.image image/gopher2.png
+.image vsrecio/presentation/image/gopher2.png
 
 * Facts ...
 
